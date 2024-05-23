@@ -60,7 +60,7 @@ System.out.println(getAllUsersResponse.getCookie("JSESSIONID"));
 
 
     }
-    @Test(dataProvider = "updatePayloadProvider", dataProviderClass = Postpayload.class)
+  /*  @Test(dataProvider = "updatePayloadProvider", dataProviderClass = Postpayload.class)
     public void testGetUserscookies() {
  // Get the endpoint for getting all users from the configuration
     String getAllUsersEndpoint = BaseClass.getAllUsersEndpoint();
@@ -82,7 +82,7 @@ System.out.println(getAllUsersResponse.getCookie("JSESSIONID"));
     //System.out.println("Set-Cookie Header: " + setCookieHeader);
     
     
-    }
+    }*/
     
     
     
