@@ -1,0 +1,13 @@
+suites:
+  - name: User API Test Suite
+    tests:
+      - name: User API Tests
+        classes:
+          - name: response.Login
+          - name: response.GetUsers
+          - name: payload.Postpayload
+          - name: response.PostResponse
+          - name: response.GetUserByUserId
+          - name: response.GetUserByFristname
+          - name: response.UpdateUser
+          - name: response.DeleteByUserId

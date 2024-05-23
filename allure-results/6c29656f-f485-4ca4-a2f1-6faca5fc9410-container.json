@@ -1,0 +1,1 @@
+{"uuid":"6c29656f-f485-4ca4-a2f1-6faca5fc9410","name":"User API Test Suite","children":["c63e2ed2-6f13-41fb-91ec-aad17b0941bb"],"befores":[{"name":"login","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1716257792777,"stop":1716257793088}],"afters":[],"start":1716257792756,"stop":1716257801347}
